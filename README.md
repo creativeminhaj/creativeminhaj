@@ -3,10 +3,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Minhaj</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
 
-<div align="center">
 # 💫 About Me:
 🔭 I’m currently working on fiverr.com<br>👯 I’m looking to collaborate on OpenSource Projects<br>🤝 I’m looking for help with Web Developement<br>🌱 I’m currently learning Data Structures, Mongo DB, Express<br>💬 Ask me about programmerminhaj.com<br>⚡ Fun fact I loves programming & play Cricket
-</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/creativeminhaj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/creativeminhaj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/creativeminhaj) [![TikTok](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/creativeminhaj) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/creativeminhaj) 
