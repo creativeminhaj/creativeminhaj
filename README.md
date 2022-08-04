@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on fiverr.com<br>👯 I’m looking to collaborate on OpenSource Projects<br>🤝 I’m looking for help with Web Developement<br>🌱 I’m currently learning Data Structures, Mongo DB, Express<br>💬 Ask me about <a href="#programmerminhaj.com">programmerminhaj.com</a><br><br>⚡ Fun fact I loves programming & play Cricket
+🔭 I’m currently working on fiverr.com<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>🤝 I’m looking for help with Web Developement<br><br>🌱 I’m currently learning Data Structures, Mongo DB, Express<br><br>💬 Ask me about <a href="#">programmerminhaj.com</a><br><br>⚡ Fun fact I loves programming & play Cricket
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/creativeminhaj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/creativeminhaj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/creativeminhaj) [![TikTok](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/creativeminhaj) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/creativeminhaj) 
