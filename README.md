@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<a href="#"><img width="100%" height="auto" src="https://ibb.co/Np29QNh" height="175px"/></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/MpkcW1T/github-Redme.webp" alt="github-Redme" border="0"></a>
+<a href="https://imgbb.com/"><img width="100%" height="auto" src="https://i.ibb.co/MpkcW1T/github-Redme.webp" alt="github-Redme" border="0"></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
